@@ -54,8 +54,8 @@ MealBridge Bolt is a modern, real-time platform designed to reduce food waste an
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sandunMadhushan/mealbridge-bolt.git
-cd mealbridge-bolt
+git clone https://github.com/sandunMadhushan/MealBridge-SriLanka.git
+cd MealBridge-SriLanka
 ```
 
 2. **Set environment variables**
