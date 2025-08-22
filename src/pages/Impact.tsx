@@ -59,7 +59,7 @@ export default function Impact() {
     },
     {
       label: "Water Saved",
-      value: "12,847 L",
+      value: "15 L",
       description: "Through reduced food production needs",
     },
     {
@@ -77,12 +77,12 @@ export default function Impact() {
     },
     {
       label: "Children Fed",
-      value: "5,678",
+      value: "6",
       description: "Young lives positively impacted",
     },
     {
       label: "Elderly Assisted",
-      value: "1,234",
+      value: "5",
       description: "Senior citizens supported",
     },
   ];
