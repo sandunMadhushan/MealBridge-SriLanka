@@ -296,11 +296,11 @@ export default function Impact() {
               </h2>
               <div className="grid grid-cols-1 gap-6 mb-6 md:grid-cols-3">
                 <div>
-                  <p className="text-3xl font-bold text-orange-600">1,247</p>
+                  <p className="text-3xl font-bold text-orange-600">8</p>
                   <p className="text-gray-700">Deliveries Completed</p>
                 </div>
                 <div>
-                  <p className="text-3xl font-bold text-orange-600">3,456</p>
+                  <p className="text-3xl font-bold text-orange-600">2</p>
                   <p className="text-gray-700">Volunteer Hours</p>
                 </div>
                 <div>
