@@ -59,7 +59,7 @@ export default function Impact() {
     },
     {
       label: "Water Saved",
-      value: "15 L",
+      value: "15,000 L",
       description: "Through reduced food production needs",
     },
     {
